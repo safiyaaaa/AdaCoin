@@ -1,0 +1,21 @@
+{
+  "name": "AdaCoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./adacoin/src/main.js",
+    "test": "jest --passWithNoTests --watchAll --config ./jest.config.json"
+  },
+  "keywords": [],
+  "author": "Safiya Behanzin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "node": "^17.4.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "npm": "^8.3.2"
+  }
+}

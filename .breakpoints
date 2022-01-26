@@ -1,0 +1,18 @@
+{
+  "files": {
+    "adacoin/src/main.js": [
+      {
+        "id": "775e7928-3d3a-43c4-a684-b7aa3e04081c",
+        "line": 1,
+        "version": 2059,
+        "index": 0
+      },
+      {
+        "id": "87687ead-bd62-40ce-83ef-73b65d18b7e6",
+        "line": 15,
+        "version": 2059,
+        "index": 354
+      }
+    ]
+  }
+}
